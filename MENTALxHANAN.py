@@ -57,7 +57,7 @@ logo = """ ✩｡:*•.───── ❁ ❁ ─────.•*:｡✩•
 |__~~~\ •✩｡:*•.───── ❁⑦❁ ─────.•*:｡✩•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mMENTALxHANAN
-\033[1;96mInstagram \033[1;93m: \033[1;HANANxMENTAL
+\033[1;96mInstagram \033[1;93m: \033[1;mHANANxMENTAL
 \033[1;96mFacebook  \033[1;93m: \033[1;MENTALALLHATREZKAABAAP
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MENTALxHANAN/zero
 \033[1;91m======================================="""
