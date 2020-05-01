@@ -47,14 +47,10 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = ☆•♡♡♡♤ ♤♡♡♡•☆
+logo =°°°☆•♡♡♡♤ ♤♡♡♡•☆
 (  __)\☆•♡♡♡♤ ♤♡♡♡•☆
 |__(~)☆•HANAN X MENTAL•☆
 |__☆•ALL¤FACEBOOK¤KING•☆
-
-
-
-
 \033[1;91m=======================================         
 \033[1;96mAuthor  \033[1;93m: \033[1;92mMENTALxHANAN
 \033[1;96mInstagram \033[1;93m: \033[1;mHANANxMENTAL
