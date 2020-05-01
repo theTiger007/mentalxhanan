@@ -81,7 +81,6 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mMENTALxHANAN
-\033[1;96mInstagram \033[1;93m: \033[1;92mHANANxMENTAL
 \033[1;96mFacebook  \033[1;93m: \033[1;92m MENTALALLHETRAZKAABAAP
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MENTALxHANAN/zero
 \033[1;91m======================================="""
